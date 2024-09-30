@@ -12,8 +12,8 @@ Programming Language: Python; Java;
 Typesetting Language: LaTeX; Markdown
 Programming Framework: PyTorch; TensorFlow
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me lye474@connect.hkust-gz.edu.cn
+
 ![Visitor Count](https://profile-counter.glitch.me/jeffyeylw/count.svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffyeylw&layout=compact&theme=tokyonight)
