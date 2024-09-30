@@ -14,9 +14,9 @@ Programming Framework: PyTorch; TensorFlow
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me lye474@connect.hkust-gz.edu.cn
 
-![Visitor Count](https://profile-counter.glitch.me/jeffyeylw/count.svg)
+<img width="340px" src="https://github-readme-stats.vercel.app/api?username=jeffyeylw&theme=vue-dark&count_private=true&show_icons=true">
+<img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffyeylw&theme=vue-dark&layout=compact">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffyeylw&layout=compact&theme=tokyonight)
 
 <!---
 jeffyeylw/jeffyeylw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
